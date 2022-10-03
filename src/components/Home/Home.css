@@ -1,0 +1,13 @@
+.containerThree{
+  display:grid;
+
+
+}
+.squar{
+  display: inline-block;
+  height: 40vh;
+  width: 40vh;
+  background-color: red;
+  
+
+}

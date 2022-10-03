@@ -1,10 +1,12 @@
 
+import './components/Home/Home.css';
 
 function Home() {
   return (
-    <div className="container">
-      <h1>teste</h1>
-
+    <div className="containerThree">
+      <s className="squar">
+      </s>
+      
     </div>
     
   );
