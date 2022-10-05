@@ -1,7 +1,6 @@
 .containerThree{
   display:grid; 
-  grid-template-rows: 10vh 20vh auto;
-  grid-template-columns: 100vw;
+  grid-template-rows: 10vh 20vh 70vh;
 
 }
 
@@ -91,6 +90,8 @@
   padding-right: 5vw;
   grid-template-columns:repeat(auto-fit,minmax(200px,1fr));
   grid-gap: 100px;
+  row-gap: 50px;
+  align-content: center;
 }
 .flagContainer{
   background-color: hsl(209, 23%, 22%);
