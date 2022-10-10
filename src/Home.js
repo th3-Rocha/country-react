@@ -27,7 +27,6 @@ import { HiSearch } from "react-icons/hi";
     
     render(){
       return (
-        Apiget();
         <div className="containerThree">
           <div className="header">
             <h2>Where in the World?</h2>
